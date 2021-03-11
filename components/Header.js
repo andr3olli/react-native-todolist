@@ -6,6 +6,7 @@ export default function Header(props) {
         <View>
             <Text>Hallo mein Name ist Andreas</Text>
             <Text>Hallo von main Branch</Text>
+            <Text>Hallo</Text>
         </View>
     )
 }
